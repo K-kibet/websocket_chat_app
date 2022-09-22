@@ -4,7 +4,7 @@ const app = express();
 const expressWS = require('express-ws')(app);
 const WsController = require('./contollers/ws-controller');
 
-const port = 3000;
+const port = 3001;
 
 app.set('views', './views');
 app.set('view engine', 'pug');

@@ -4,3 +4,4 @@
 - it uses express for backend api
 - pug, bootstrap and jquery are frameworks used for the front-end
 
+![image-preview](./VPchat.png)
